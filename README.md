@@ -2,7 +2,7 @@
 
 This Python script provides a menu-driven interface for performing the following actions:
 
-1. **Port Scanning**: Scans a target IP address for open ports within a specified range.
+1. **Port Scanning**: Scans a target IP address or domain for open ports within a specified range(1-65535) by default.
 
 2. **IP Information**: Displays the local and public IP addresses of the computer.
 
