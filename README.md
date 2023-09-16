@@ -11,14 +11,13 @@ This Python script provides a menu-driven interface for performing the following
 4. **Exit**: Exits the program.
 
 ## Requirements
-
-- Python 3.x
+- Python 3.7 or higher
 - Paramiko library (for SSH connectivity)
   - You can install it using: `pip install paramiko`
 
 ## Usage
 
-1. Run the script using Python: `python script.py`
+1. Run the script using Python: `python scorpion.py (don´t forget to allow execution with chmod +x scorpion.py) `
 
 2. The program will display a menu with the following options:
 
